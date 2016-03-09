@@ -1,6 +1,6 @@
 name: CLHDesign
 favicon: null
-layout_spectrum: 0.6844941910821944
+layout_spectrum: 0.46887
 typography_spectrum: 0.8161706253886223
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.9210755531676114
-  lightness: 0.871768529061228
+    - '#000004'
+    - '#fefdff'
+    - '#8be9ff'
+    - '#b9b3b5'
+    - '#866570'
+  brandStrength: 0
+  lightness: 0.875
   saturation: 0.02115343208424747
-  rhythmicContrast: 0.6929397895000875
+  rhythmicContrast: 0.25
 purpose: []
